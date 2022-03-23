@@ -19,6 +19,6 @@ python -m dzcb \
     --replacements "$DIR/replacements.csv" \
     --anytone \
     --dmrconfig "$DIR/example-d878uv.conf" \
-    --farnsworth-template-json "$DIR/example-md-uv380.json" \
+    --farnsworth-template-json "$DIR/ac7td-md-uv380.json" \
     --gb3gf \
 -- "$OUTPUT/$(basename "$DIR")"

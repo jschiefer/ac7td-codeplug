@@ -25,6 +25,6 @@ CodeplugRecipe(
     replacements=cp_dir / "replacements.csv",
     output_anytone=True,
     output_dmrconfig=[(cp_dir / "example-d878uv.conf")],
-    output_farnsworth=[(cp_dir / "example-md-uv380.json")],
+    output_farnsworth=[(cp_dir / "ac7td-md-uv380.json")],
     output_gb3gf=True
 ).generate(output / cp_dir.name)
