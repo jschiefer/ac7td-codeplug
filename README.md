@@ -1,4 +1,4 @@
-# example-codeplug
+# This is a customization of example-codeplug for ac7td
 
 Generate DMR codeplugs from a variety of online sources using
 [dzcb](https://github.com/mycodeplug/dzcb).
